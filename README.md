@@ -1,2 +1,2 @@
 # WTLD
-Json Datas for Private WaktaLand Project.
+Json Datas for WaktaLand Project.
